@@ -33,8 +33,6 @@ const Hero = () => {
               </svg>
             </a>
             
-            
-            
             {/* GitHub Icon */}
             <a href="https://github.com/jtrugman" target="_blank" rel="noopener noreferrer" className="fill-current">
               <svg
