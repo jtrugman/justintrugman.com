@@ -18,7 +18,7 @@ const BFLCard = () => {
                 </div>
                 
                 <p>Cofound your next startup with the BFL team and I! </p> 
-                <p>We stack the odds for success with initial funding, fantastic resources, and an innovative process.</p>
+                <p>We stack the odds for success by providing initial funding, fantastic resources, and an innovative process.</p>
             </div>
         </div>
     </a>
