@@ -5,7 +5,7 @@ import ExperienceCard from "./experience-item-card";
 
 const ItemsDivider = () => {
     return (
-        <div className="py-36">
+        <div className="py-36 px-12">
             <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
                 {/* Titles */}
                 <div className="text-center mb-4">Work Experience</div>
@@ -21,7 +21,7 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-warning"
-                            textColor="success-content"
+                            textColor="base-200"
                         />
                     ))}
                 </div>
@@ -34,7 +34,7 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-accent"
-                            textColor="success-content"
+                            textColor="base-200"
                         />
                     ))}
                 </div>
@@ -47,7 +47,7 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-info"
-                            textColor="success-content"
+                            textColor="base-200"
                         />
                     ))}
                 </div>
@@ -60,7 +60,7 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-primary"
-                            textColor="success-content"
+                            textColor="base-200"
                         />
                     ))}
                 </div>
