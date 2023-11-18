@@ -1,0 +1,246 @@
+{
+    "WorkExperience": [
+      {
+        "Title": "Cofounder & Head of Technology",
+        "Subtitle": "🚀 Better Future Labs",
+        "Link": "https://www.betterfuturelabs.com/"
+      },
+      {
+        "Title": "VP of Software Development",
+        "Subtitle": "🩺 Caregility",
+        "Link": "https://caregility.com/"
+      },
+      {
+        "Title": "Software Engineer Intern",
+        "Subtitle": "🎈 Project Loon (Google[X] Project)",
+        "Link": "https://x.company/projects/loon/"
+      },
+      {
+        "Title": "Software Engineer",
+        "Subtitle": "📈 FinTech Studios",
+        "Link": "https://www.fintechstudios.com/"
+      },
+      {
+        "Title": "Cofounder",
+        "Subtitle": "🌐 BlinkCDN",
+        "Link": "https://www.stevens.edu/news/streaming-video-blink-eye"
+      }
+    ],
+    "Projects": [
+      {
+        "Title": "⚖️ License Guide",
+        "Subtitle": "Custom GPT for Software Licenses",
+        "Link": "https://chat.openai.com/g/g-08p96iac2-license-guide"
+      },
+      {
+        "Title": "🖥️ JustinTrugman.com Website",
+        "Subtitle": "Use this website template",
+        "Link": "https://github.com/jtrugman/justintrugman.com"
+      },
+      {
+        "Title": "🤖 Software Testing AI",
+        "Subtitle": "AI Unit Test Assistant",
+        "Link": "https://softwaretesting.ai/"
+      },
+      {
+        "Title": "👨‍🚒 FireChief DB",
+        "Subtitle": "A better Firebase Client",
+        "Link": "https://firechiefdb.com/"
+      },
+      {
+        "Title": "☕ Coffee Shops Nearby",
+        "Subtitle": "Discover New Coffee Shops",
+        "Link": "https://www.coffeeshopsnearby.com/"
+      },
+      {
+        "Title": "👨‍🔧 Codebase Plumber",
+        "Subtitle": "Dev tools to make your team more productive",
+        "Link": "https://www.codebaseplumber.com/"
+      },
+      {
+        "Title": "🗒️ For the Record",
+        "Subtitle": "Easily Summarize Pull Requests",
+        "Link": "https://www.codebaseplumber.com/posts/for-the-record/"
+      },
+      {
+        "Title": "🐐 GOAT",
+        "Subtitle": "YAML Config for Networks",
+        "Link": "https://github.com/jtrugman/goat"
+      },
+      {
+        "Title": "🌌 Qui-Gon",
+        "Subtitle": "Quick UDP with Intelligent Guidance Over Networks",
+        "Link": "https://github.com/jtrugman/qui-gon"
+      },
+      {
+        "Title": "📞 SecureMeeting",
+        "Subtitle": "WebRTC Video Chat",
+        "Link": "https://www.securemeeting.org/"
+      }
+    ],
+    "WritingsAndTalks": [
+      {
+        "Title": "Decoding Software Licenses: An Introduction for Developers",
+        "Subtitle": "Bug Driven Development",
+        "Link": "https://www.bugdrivendevelopment.com/p/developers-guide-to-software-licenses"
+      },
+      {
+        "Title": "🧪 Using AI to Test Software, Techniques and Tools",
+        "Subtitle": "AI, Machine Learning and Data Science Meetup",
+        "Link": "https://youtu.be/ObTv_gwLf-c?si=DZddF73GSt-lgoMq"
+      },
+      {
+        "Title": "A Practical Developer's Guide to Shift Left Security",
+        "Subtitle": "Bug Driven Development",
+        "Link": "https://www.bugdrivendevelopment.com/p/shift-left-security"
+      },
+      {
+        "Title": "Analyzing the State of Software Development in late 2023",
+        "Subtitle": "Bug Driven Development",
+        "Link": "https://www.bugdrivendevelopment.com/p/state-of-software-development-in-late-2023"
+      },
+      {
+        "Title": "AI Powered Testing with SoftwareTesting.ai",
+        "Subtitle": "Propelify",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7116035342788386816/"
+      },
+      {
+        "Title": "Installing CapRover on Hetzner Cloud",
+        "Subtitle": "Hetzner",
+        "Link": "https://community.hetzner.com/tutorials/install-caprover"
+      },
+      {
+        "Title": "Re-imagining Healthcare with AI and Metaverse",
+        "Subtitle": "Markets and Markets",
+        "Link": "https://www.brighttalk.com/webcast/18253/582991?linkId=212899140"
+      },
+      {
+        "Title": "How Empowered Developers Are the Launch Pad for Secure Software",
+        "Subtitle": "GitHub Universe",
+        "Link": "https://www.youtube.com/watch?v=NyXcsy9QbQg"
+      },
+      {
+        "Title": "Incorporating security in Enterprise DevOps workflows",
+        "Subtitle": "GitHub - The ReadME Project",
+        "Link": "https://github.com/readme/guides/github-advanced-security-caregility"
+      },
+      {
+        "Title": "How to Deploy your Probot App with Vercel",
+        "Subtitle": "Medium",
+        "Link": "https://medium.com/@jtrugman/how-to-deploy-your-probot-app-to-vercel-9411a77fa905"
+      },
+      {
+        "Title": "Networks and WiFi and Continuous Video Monitoring",
+        "Subtitle": "Epic App Orchard Conference",
+        "Link": "https://vendorservices.epic.com/Conference/2021/Speakers/Justin_Trugman"
+      },
+      {
+        "Title": "Inside WebRTC RTCPeerConnection Signaling",
+        "Subtitle": "SecureMeeting Medium Blog",
+        "Link": "https://medium.com/securemeeting/inside-webrtc-rtcpeerconnection-signaling-1737deb77107"
+      },
+      {
+        "Title": "How to Foster Entrepreneurship",
+        "Subtitle": "The Market and The Good",
+        "Link": "https://podcasters.spotify.com/pod/show/TheMarketAndTheGood/episodes/How-to-Foster-Entrepreneurship---Justin-Trugman-edof3o/a-a1pfas3"
+      },
+      {
+        "Title": "Rethinking Net Neutrality",
+        "Subtitle": "Medium",
+        "Link": "https://medium.com/@jtrugman/rethinking-net-neutrality-c9c2cac79516"
+      }
+    ],
+    "MediaFeatures": [
+      {
+        "Title": "Recapping the AI, Machine Learning and Data Science Meetup — Nov 2, 2023",
+        "Subtitle": "Voxel51",
+        "Link": "https://voxel51.com/blog/recapping-the-ai-machine-learning-and-data-science-meetup-nov-2-2023/"
+      },
+      {
+        "Title": "Technical Founder Learning Non-Technical Skills",
+        "Subtitle": "Backseat Startup",
+        "Link": "https://startupstage.app/blog/ai-software-testing-revolutionizing-quality-assurance"
+      },
+      {
+        "Title": "AI in Software Testing: Revolutionizing Quality Assurance",
+        "Subtitle": "Startup Stage",
+        "Link": "https://startupstage.app/blog/ai-software-testing-revolutionizing-quality-assurance"
+      },      
+      {
+        "Title": "Programmatic access and integrations with GitHub Enterprise Cloud",
+        "Subtitle": "GitHub Learning Pathways",
+        "Link": "https://resources.github.com/learn/pathways/administration-governance/essentials/programmatic-access-integrations-github-enterprise-cloud/"
+      },
+      {
+        "Title": "Hoboken-Based Entrepreneur’s 'Side Hustle' Heading for Commercialization",
+        "Subtitle": "NJ Tech Weekly",
+        "Link": "https://njtechweekly.com/hoboken-based-entrepreneurs-side-hustle-heading-for-commercialization/"
+      },
+      {
+        "Title": "Thomas H. Scholl Awards Fuel Launchpad Innovations",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/thomas-h-scholl-awards-fuel-launchpad-innovations"
+      },
+      {
+        "Title": "GitHub Advanced Security helps Caregility safeguard its platform for patients and clinicians.",
+        "Subtitle": "GitHub",
+        "Link": "https://github.com/customer-stories/caregility"
+      },
+      {
+        "Title": "Justin Trugman ’20 is Raising the Innovation Game",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/justin-trugman-20"
+      },
+      {
+        "Title": "Despite Dismal Jobs Market, Stevens Business Class of 2020 Sets New Records",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/business-outcomes-employment-class-2020"
+      },
+      {
+        "Title": "At Stevens Virtual HealthHack, Teams Focus on Innovation in the Time of COVID-19",
+        "Subtitle": "NJ Tech Weekly",
+        "Link": "https://njtechweekly.com/at-stevens-virtual-healthhack-teams-focus-on-innovation-in-the-time-of-covid-19/"
+      },
+      {
+        "Title": "Spring 2020 Awards",
+        "Subtitle": "Stevens Institute of Technology Sigma Phi Epsilon",
+        "Link": "https://stevens.sigep.org/blog/spring-2020-awards/"
+      },
+      {
+        "Title": "In COVID-19 Crisis, Telemedicine Startup Has Stevens Alumnus on Speed Dial",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/business-alumnus-trugman-caregility-coronavirus-entrepreneurship"
+      },
+      {
+        "Title": "University Hackathon Tackles Reopening After Covid",
+        "Subtitle": "Inc",
+        "Link": "https://www.inc.com/a-university-hackathon-tackles-reopening-the-economy-after-covid.html"
+      },
+      {
+        "Title": "Stevens Students Develop Technologies to Fight Human Trafficking",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/stevens-students-develop-technologies-fight-human-trafficking"
+      },
+      {
+        "Title": "Depression-Management Tool Takes Top Prize in Stevens’ HealthTech Hackathon",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/depression-management-tool-takes-top-prize-stevens-healthtech-hackathon"
+      },      
+      {
+        "Title": "Live Streaming Isn't Live. A Stevens Business Student Is out to Change That",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/business-blink-trugman-live-stream-2018"
+      },
+      {
+        "Title": "Streaming Video in the Blink of an Eye",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/streaming-video-blink-eye"
+      },
+      {
+        "Title": "Stevens Venture Center Hackathon Focuses on Coping With College Life",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/news/stevens-venture-center-hackathon-focuses-coping-college-life"
+      }
+    ]
+  }
+  
