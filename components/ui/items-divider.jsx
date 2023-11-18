@@ -15,7 +15,8 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-warning"
-                            textColor="base-200"
+                            textColor="text-base-200"
+                            svgColor="stroke-base-200"
                         />
                     ))}
                 </div>
@@ -29,7 +30,8 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-accent"
-                            textColor="base-200"
+                            textColor="text-base-200"
+                            svgColor="stroke-base-200"
                         />
                     ))}
                 </div>
@@ -43,7 +45,8 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-info"
-                            textColor="base-200"
+                            textColor="text-base-200"
+                            svgColor="stroke-base-200"
                         />
                     ))}
                 </div>
@@ -57,7 +60,8 @@ const ItemsDivider = () => {
                             subtitle={item.Subtitle}
                             link={item.Link}
                             cardColor="bg-primary"
-                            textColor="base-200"
+                            textColor="text-base-200"
+                            svgColor="stroke-base-200"
                         />
                     ))}
                 </div>

@@ -1,8 +1,8 @@
-const ExperienceCard = ({ title, subtitle, link, cardColor, textColor }) => {
+const ExperienceCard = ({ title, subtitle, link, cardColor, textColor, svgColor }) => {
     const cardClass = `card w-full ${cardColor} shadow-xl`;
-    const titleTextClass = `text-sm font-semibold text-${textColor}`;
-    const svgClass = `w-6 h-6 ${cardColor} stroke-${textColor}`;
-    const subtitleClass = `text-xs text-${textColor}`;
+    const titleTextClass = `text-sm font-semibold ${textColor}`;
+    const svgClass = `w-6 h-6 ${cardColor} ${svgColor}`;
+    const subtitleClass = `text-xs ${textColor}`;
 
     return (
         <a href={link} className={cardClass} target="_blank" rel="noopener noreferrer">
