@@ -1,0 +1,51 @@
+{
+    "WorkExperience": [
+      {
+        "Title": "VP of Software Development",
+        "Subtitle": "🩺 Caregility",
+        "Link": "https://example.com/job1"
+      },
+      {
+        "Title": "Job Title 2",
+        "Subtitle": "Company 2, Duration",
+        "Link": "https://example.com/job2"
+      }
+    ],
+    "Projects": [
+      {
+        "Title": "Project Title 1",
+        "Subtitle": "Project Description 1",
+        "Link": "https://example.com/project1"
+      },
+      {
+        "Title": "Project Title 2",
+        "Subtitle": "Project Description 2",
+        "Link": "https://example.com/project2"
+      }
+    ],
+    "WritingsAndTalks": [
+      {
+        "Title": "Writing/Talk Title 1",
+        "Subtitle": "Publication/Event, Date",
+        "Link": "https://example.com/writing1"
+      },
+      {
+        "Title": "Writing/Talk Title 2",
+        "Subtitle": "Publication/Event, Date",
+        "Link": "https://example.com/writing2"
+      }
+    ],
+    "MediaFeatures": [
+      {
+        "Title": "Feature Title 1",
+        "Subtitle": "Media Outlet, Date",
+        "Link": "https://example.com/feature1"
+      },
+      {
+        "Title": "Feature Title 2",
+        "Subtitle": "Media Outlet, Date",
+        "Link": "https://example.com/feature2"
+      }
+    ]
+  }
+  

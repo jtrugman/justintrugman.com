@@ -1,27 +1,73 @@
+// Change py-36 when you put a more seamless transition above the divider component
+
+import experienceInfo from "@/app/experienceInfo.json";
+import ExperienceCard from "./experience-item-card";
+
 const ItemsDivider = () => {
     return (
-        <div className="flex flex-col w-full lg:flex-row">
-            {/* Section 1 */}
-            <div className="grid flex-grow h-32 card bg-base-300 rounded-box place-items-center">
-                Content 1
-            </div>
-            <div className="divider lg:divider-horizontal">OR</div>
-            {/* Section 2 */}
-            <div className="grid flex-grow h-32 card bg-base-300 rounded-box place-items-center">
-                Content 2
-            </div>
-            <div className="divider lg:divider-horizontal">OR</div>
-            {/* Section 3 */}
-            <div className="grid flex-grow h-32 card bg-base-300 rounded-box place-items-center">
-                Content 3
-            </div>
-            <div className="divider lg:divider-horizontal">OR</div>
-            {/* Section 4 */}
-            <div className="grid flex-grow h-32 card bg-base-300 rounded-box place-items-center">
-                Content 4
+        <div className="py-36">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-5">
+                {/* Titles */}
+                <div className="text-center mb-4">Work Experience</div>
+                <div className="text-center mb-4">Projects</div>
+                <div className="text-center mb-4">Writings & Talks</div>
+                <div className="text-center mb-4">Media Features</div>
+
+                {/* Work Experience Column */}
+                <div className="space-y-4">
+                    {experienceInfo.WorkExperience.map((item, index) => (
+                        <ExperienceCard key={index}
+                            title={item.Title}
+                            subtitle={item.Subtitle}
+                            link={item.Link}
+                            cardColor="bg-warning"
+                            textColor="success-content"
+                        />
+                    ))}
+                </div>
+
+                {/* Projects Column */}
+                <div className="space-y-4">
+                    {experienceInfo.Projects.map((item, index) => (
+                        <ExperienceCard key={index}
+                            title={item.Title}
+                            subtitle={item.Subtitle}
+                            link={item.Link}
+                            cardColor="bg-accent"
+                            textColor="success-content"
+                        />
+                    ))}
+                </div>
+
+                {/* Writings & Talks Column */}
+                <div className="space-y-4">
+                    {experienceInfo.WritingsAndTalks.map((item, index) => (
+                        <ExperienceCard key={index}
+                            title={item.Title}
+                            subtitle={item.Subtitle}
+                            link={item.Link}
+                            cardColor="bg-info"
+                            textColor="success-content"
+                        />
+                    ))}
+                </div>
+
+                {/* Media Features Column */}
+                <div className="space-y-4">
+                    {experienceInfo.MediaFeatures.map((item, index) => (
+                        <ExperienceCard key={index}
+                            title={item.Title}
+                            subtitle={item.Subtitle}
+                            link={item.Link}
+                            cardColor="bg-primary"
+                            textColor="success-content"
+                        />
+                    ))}
+                </div>
             </div>
         </div>
     );
-  };
-  
-  export default ItemsDivider;
+};
+
+export default ItemsDivider;
+
