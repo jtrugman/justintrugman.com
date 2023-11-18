@@ -1,5 +1,5 @@
 import Image from "next/image";
-import ButtonLead from "./ButtonLead";
+import EmailSignUp from "./email-signup";
 
 
 const EmailCard = () => {
@@ -17,7 +17,7 @@ const EmailCard = () => {
             </div>
           <p>Explore software development best practices, trends, news, and a lot of other fun topics</p>
           <div className="card-actions justify-end">
-            <ButtonLead />
+            <EmailSignUp />
 
               {/* <input type="text" placeholder="Email" className="input input-bordered w-full max-w-xs" />
               <button 

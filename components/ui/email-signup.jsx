@@ -2,7 +2,7 @@
 
 import { useState, useRef } from "react";
 
-const ButtonLead = () => {
+const EmailSignUp = () => {
   const inputRef = useRef(null);
   const [email, setEmail] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -69,4 +69,4 @@ const ButtonLead = () => {
   );
 };
 
-export default ButtonLead;
+export default EmailSignUp;
