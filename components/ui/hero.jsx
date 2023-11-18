@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <Image className="lg:max-w-sm sm:max-w-xsm rounded-lg shadow-2xl"
             src={hero} 
-            alt="Better Future Labs Logo"
+            alt="Hero image for JustinTrugman.com"
             width={600}
             height={600}
         />
