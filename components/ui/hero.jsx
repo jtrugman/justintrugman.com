@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="hero min-h-min py-20">
       <div className="hero-content flex-col lg:flex-row-reverse">
-        <Image className="max-w-sm rounded-lg shadow-2xl"
+        <Image className="lg:max-w-sm sm:max-w-xsm rounded-lg shadow-2xl"
             src="https://www.justintrugman.com/images/hero.png" 
             alt="Better Future Labs Logo"
             width={600}
