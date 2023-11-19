@@ -2,6 +2,9 @@ import Image from "next/image";
 import hero from "@/public/hero.png"
 
 const Hero = () => {
+  const h1Text = `Hi, I'm Justin Trugman.`;
+  const h2Text = `I'm cofounder and head of technology at Better Future Labs - a Venture Studio that innovates, launches, and grows trailblazing tech companies.`;
+  const pText = `Prior to Better Future Labs, I was an early engineer and the VP of Software Development at the telehealth startup Caregility - leading their engineering teams. My passion for building quality software is exhilarating, previously I was at Google[X]'s Project Loon and cofounded BlinkCDN, a video content delivery network. Beyond these endeavors, I'm actively involved with my alma mater, Stevens, and with the nonprofit I cofounded, SecureMeeting.`;
   return (
     <div className="hero min-h-min py-20">
       <div className="hero-content flex-col lg:flex-row-reverse">
@@ -12,11 +15,9 @@ const Hero = () => {
             height={600}
         />
         <div>
-          <h1 className="text-5xl font-bold text-slate-300">Hi, I'm Justin Trugman.</h1>
-          <h2 className="text-2xl py-4 max-w-xl text-slate-300">I'm cofounder and head of technology at Better Future Labs - a Venture Studio that innovates, launches, and grows trailblazing tech companies.</h2>
-          <p className="py-6 max-w-3xl">
-            Prior to Better Future Labs, I was an early engineer and the VP of Software Development at the telehealth startup Caregility - leading their engineering teams. My passion for building quality software is exhilarating, previously I was at Google[X]'s Project Loon and cofounded BlinkCDN, a video content delivery network. Beyond these endeavors, I'm actively involved with my alma mater, Stevens, and with the nonprofit I cofounded, SecureMeeting.  
-          </p>
+          <h1 className="text-5xl font-bold text-slate-300">{h1Text}</h1>
+          <h2 className="text-2xl py-4 max-w-xl text-slate-300">{h2Text}</h2>
+          <p className="py-6 max-w-3xl">{pText}</p>
 
           {/* SVG Icons */}
           <div className="flex gap-4">
