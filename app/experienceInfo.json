@@ -80,6 +80,11 @@
     ],
     "WritingsAndTalks": [
       {
+        "Title": "Technical Founder Learning Non-Technical Skills",
+        "Subtitle": "Backseat Startup",
+        "Link": "https://youtu.be/SkrPz2CvO9s?si=CMiSmUBfQsGpISHS"
+      },
+      {
         "Title": "Decoding Software Licenses: An Introduction for Developers",
         "Subtitle": "Bug Driven Development",
         "Link": "https://www.bugdrivendevelopment.com/p/developers-guide-to-software-licenses"
@@ -155,11 +160,6 @@
         "Title": "Recapping the AI, Machine Learning and Data Science Meetup — Nov 2, 2023",
         "Subtitle": "Voxel51",
         "Link": "https://voxel51.com/blog/recapping-the-ai-machine-learning-and-data-science-meetup-nov-2-2023/"
-      },
-      {
-        "Title": "Technical Founder Learning Non-Technical Skills",
-        "Subtitle": "Backseat Startup",
-        "Link": "https://startupstage.app/blog/ai-software-testing-revolutionizing-quality-assurance"
       },
       {
         "Title": "AI in Software Testing: Revolutionizing Quality Assurance",
