@@ -12,11 +12,10 @@ const Navbar = () => {
             </svg>
           </label>
           <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-            <li><a>Blog</a></li>
-            <li><a>Media</a></li>
+            <li><a href="https://www.bugdrivendevelopment.com/" target="_blank" rel="noopener noreferrer">Blog</a></li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl"> 
+        <a className="btn btn-ghost text-xl" href="https://justintrugman.com" rel="noopener noreferrer"> 
             <Image 
                 src={profile} 
                 alt="Profile Picture for JustinTrugman.com"
@@ -28,8 +27,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-end hidden lg:flex">
             <ul className="menu menu-horizontal px-1">
-            <li><a>Blog</a></li>
-            <li><a>Media</a></li>
+            <li><a href="https://www.bugdrivendevelopment.com/" target="_blank" rel="noopener noreferrer">Blog</a></li>
             </ul>
         </div>
     </div>
