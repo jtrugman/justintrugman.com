@@ -10,7 +10,7 @@ const Divider = () => {
         </div>
         <div className="divider lg:divider-horizontal"></div>
         <div className="grid flex-grow m-h-min card rounded-box place-items-center">
-            MY NEWSLETTER
+            MY BLOG
             <EmailCard />
         </div>
       </div>

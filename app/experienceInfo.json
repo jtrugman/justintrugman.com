@@ -157,6 +157,16 @@
     ],
     "MediaFeatures": [
       {
+        "Title": "AutoGen Lightning Talk",
+        "Subtitle": "Microsoft Research Forum",
+        "Link": "https://www.microsoft.com/en-us/research/quarterly-brief/mar-2024-brief/articles/whats-new-in-autogen/"
+      },
+      {
+        "Title": "What's New in AutoGen?",
+        "Subtitle": "Autogen Blog",
+        "Link": "https://microsoft.github.io/autogen/blog/2024/03/03/AutoGen-Update/"
+      },
+      {
         "Title": "Recapping the AI, Machine Learning and Data Science Meetup — Nov 2, 2023",
         "Subtitle": "Voxel51",
         "Link": "https://voxel51.com/blog/recapping-the-ai-machine-learning-and-data-science-meetup-nov-2-2023/"
