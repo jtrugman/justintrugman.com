@@ -28,6 +28,11 @@
     ],
     "Projects": [
       {
+        "Title": "🤖 MagicJ Multi-Agent System",
+        "Subtitle": "Flexible Multi-Agent For Performing Market Research",
+        "Link": "https://magicj.ai/"
+      },
+      {
         "Title": "⚖️ License Guide",
         "Subtitle": "Custom GPT for Software Licenses",
         "Link": "https://chat.openai.com/g/g-08p96iac2-license-guide"
@@ -79,6 +84,11 @@
       }
     ],
     "WritingsAndTalks": [
+      {
+        "Title": "AI: Why it brings great opportunity — along with great challenges",
+        "Subtitle": "ROI NJ",
+        "Link": "https://www.roi-nj.com/2024/04/10/tech/ai-why-it-brings-great-opportunity-along-with-great-challenges/"
+      },
       {
         "Title": "How BetterFutureLabs Uses Autogen for Market Research",
         "Subtitle": "Microsoft Research AI Frontiers - Autogen Community Event",
