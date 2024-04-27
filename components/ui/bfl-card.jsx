@@ -10,11 +10,11 @@ const BFLCard = () => {
                 <div className="card-title" >
                     <Image 
                             src={BFL} 
-                            alt="Better Future Labs Logo"
+                            alt="BetterFutureLabs Logo"
                             width={32}
                             height={18}
                         />
-                    <h2>Cofound with Better Future Labs</h2>
+                    <h2>Cofound with BetterFutureLabs</h2>
                 </div>
                 
                 <p>Cofound your next startup with the BFL team and I! </p> 
