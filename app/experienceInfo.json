@@ -28,6 +28,11 @@
     ],
     "Projects": [
       {
+        "Title": "🤖 MagicJ Multi-Agent System",
+        "Subtitle": "Flexible Multi-Agent For Performing Market Research",
+        "Link": "https://magicj.ai/"
+      },
+      {
         "Title": "⚖️ License Guide",
         "Subtitle": "Custom GPT for Software Licenses",
         "Link": "https://chat.openai.com/g/g-08p96iac2-license-guide"
