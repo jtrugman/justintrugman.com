@@ -3,9 +3,9 @@ import hero from "@/public/hero.png"
 
 const Hero = () => {
   const h1Text = `Hi, I'm Justin Trugman.`;
-  const h2Text = `I am the Cofounder and Head of Technology at BetterFutureLabs - a Venture Studio focused on the intersection of Multi-agent Systems and the workforce of the future.`;
+  const h2Text = `I am the Cofounder and Head of Technology at BetterFutureLabs - a Venture Studio focused on the intersection of Multi-Agent Systems and the workforce of the future.`;
   const p1Text = `Before cofounding BetterFutureLabs, I was an early engineer and the VP of Software Development at the telehealth startup Caregility, where I led the engineering teams. I also worked at Google[X]'s Project Loon and cofounded BlinkCDN, a video content delivery network startup. My work with BlinkCDN led me to cofound the non-profit SecureMeeting, which has facilitated over a million conversations with its real-time video communications network since its founding.`;
-  const p2Text = `Currently, I am very active in the Multi-agent Systems space, with notable contributions to Microsoft AI Frontiers' open source Autogen MultiAgent framework.`;
+  const p2Text = `Currently, I am very active in the Multi-agent Systems space, with notable contributions to Microsoft AI Frontiers' open source Autogen Multi-Agent framework.`;
 
   return (
     <div className="hero min-h-min py-20">
