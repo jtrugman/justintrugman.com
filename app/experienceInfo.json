@@ -1,5 +1,5 @@
 {
-    "WorkExperience": [
+    "WorkEdu": [
       {
         "Title": "Cofounder & Head of Technology",
         "Subtitle": "🚀 Better Future Labs",
@@ -24,6 +24,21 @@
         "Title": "Cofounder",
         "Subtitle": "🌐 BlinkCDN",
         "Link": "https://www.stevens.edu/news/streaming-video-blink-eye"
+      },
+      {
+        "Title": "Master's of Engineering - Computer Engineering",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/program/computer-engineering-masters"
+      },
+      {
+        "Title": "Graduate Certification - Software Design for Embedded and Information Systems",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://stevens.smartcatalogiq.com/2022-2023/academic-catalog/department-of-electrical-and-computer-engineering/graduate-certificate-programs/software-design-for-embedded-and-information-systems/"
+      },
+      {
+        "Title": "Bachelor's of Science - Business & Technology",
+        "Subtitle": "Stevens Institute of Technology",
+        "Link": "https://www.stevens.edu/school-business/undergraduate-programs/business-technology-major"
       }
     ],
     "Projects": [
@@ -84,6 +99,16 @@
       }
     ],
     "WritingsAndTalks": [
+      {
+        "Title": "From Dad Jokes To Sad Jokes: Function Calling with GPTAssistantAgent",
+        "Subtitle": "Autogen",
+        "Link": "https://github.com/microsoft/autogen/commit/10bb25ba7d933f83e6f2f28a024e7a163cd77f5d"
+      },
+      {
+        "Title": "GAIA: Redefining AI Assistant Evaluation",
+        "Subtitle": "Towards AI",
+        "Link": "https://pub.towardsai.net/gaia-redefining-ai-assistant-evaluation-2b9227ae44fd"
+      },
       {
         "Title": "AI: Why it brings great opportunity — along with great challenges",
         "Subtitle": "ROI NJ",
