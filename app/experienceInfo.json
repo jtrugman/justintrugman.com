@@ -100,6 +100,11 @@
     ],
     "WritingsAndTalks": [
       {
+        "Title": "Panel Discussion: AI Skills for a Transforming Workforce",
+        "Subtitle": "NJ Big Data Alliance",
+        "Link": "https://njbda.org/2024symposium/"
+      },
+      {
         "Title": "From Dad Jokes To Sad Jokes: Function Calling with GPTAssistantAgent",
         "Subtitle": "Autogen",
         "Link": "https://github.com/microsoft/autogen/commit/10bb25ba7d933f83e6f2f28a024e7a163cd77f5d"
