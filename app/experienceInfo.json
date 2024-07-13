@@ -106,7 +106,7 @@
       },
       {
         "Title": "From Dad Jokes To Sad Jokes: Function Calling with GPTAssistantAgent",
-        "Subtitle": "Autogen",
+        "Subtitle": "AutoGen",
         "Link": "https://github.com/microsoft/autogen/commit/10bb25ba7d933f83e6f2f28a024e7a163cd77f5d"
       },
       {
@@ -120,8 +120,8 @@
         "Link": "https://www.roi-nj.com/2024/04/10/tech/ai-why-it-brings-great-opportunity-along-with-great-challenges/"
       },
       {
-        "Title": "How BetterFutureLabs Uses Autogen for Market Research",
-        "Subtitle": "Microsoft Research AI Frontiers - Autogen Community Event",
+        "Title": "How BetterFutureLabs Uses AutoGen for Market Research",
+        "Subtitle": "Microsoft Research AI Frontiers - AutoGen Community Event",
         "Link": "https://x.com/Chi_Wang_/status/1776709601708183747"
       },
       {
@@ -207,6 +207,11 @@
     ],
     "MediaFeatures": [
       {
+        "Title": "Agents in AutoGen",
+        "Subtitle": "AutoGen Blog",
+        "Link": "https://microsoft.github.io/autogen/blog/2024/05/24/Agent"
+      },
+      {
         "Title": "Update: Bleeding-Edge AI to Be Part of Solutions Offered by Better Future Labs Companies",
         "Subtitle": "NJ Tech Weekly",
         "Link": "https://njtechweekly.com/update-bleeding-edge-ai-to-be-part-of-solutions-offered-by-betterfuturelabs-companies/"
@@ -218,7 +223,7 @@
       },
       {
         "Title": "What's New in AutoGen?",
-        "Subtitle": "Autogen Blog",
+        "Subtitle": "AutoGen Blog",
         "Link": "https://microsoft.github.io/autogen/blog/2024/03/03/AutoGen-Update/"
       },
       {
