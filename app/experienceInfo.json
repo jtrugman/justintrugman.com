@@ -100,6 +100,16 @@
     ],
     "WritingsAndTalks": [
       {
+        "Title": "I Asked 28 AI Models The Trolley Problem—And They All Pulled The Lever",
+        "Subtitle": "LinkedIn & X Article",
+        "Link": "https://www.linkedin.com/pulse/i-asked-28-ai-models-trolley-problemand-all-pulled-lever-trugman-hinae/?trackingId=qICDFPolRwKYnoYfQ7pZDg%3D%3D"
+      },
+      {
+        "Title": "You don't know as much about AI as you think",
+        "Subtitle": "Propelify",
+        "Link": "https://youtu.be/DEqVoZBn0qk?si=9VWYRPHcUTN1KUmI"
+      },
+      {
         "Title": "Panel Discussion: AI Skills for a Transforming Workforce",
         "Subtitle": "NJ Big Data Alliance",
         "Link": "https://njbda.org/2024symposium/"
@@ -206,6 +216,11 @@
       }
     ],
     "MediaFeatures": [
+      {
+        "Title": "Microsoft AutoGen: A Programming Framework for Agentic AI",
+        "Subtitle": "Arize AI",
+        "Link": "https://youtu.be/fLCNFt-Ww_8?si=5nZ1HAVL0kbPG9kA&t=750"
+      },
       {
         "Title": "Agents in AutoGen",
         "Subtitle": "AutoGen Blog",
