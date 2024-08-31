@@ -207,6 +207,11 @@
     ],
     "MediaFeatures": [
       {
+        "Title": "Microsoft AutoGen: A Programming Framework for Agentic AI",
+        "Subtitle": "Arize AI",
+        "Link": "https://youtu.be/fLCNFt-Ww_8?si=5nZ1HAVL0kbPG9kA&t=750"
+      },
+      {
         "Title": "Agents in AutoGen",
         "Subtitle": "AutoGen Blog",
         "Link": "https://microsoft.github.io/autogen/blog/2024/05/24/Agent"
