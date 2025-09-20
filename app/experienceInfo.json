@@ -100,6 +100,71 @@
     ],
     "WritingsAndTalks": [
       {
+        "Title": "Parallel Agent Execution with AG2: Best Practices Guide",
+        "Subtitle": "AG2",
+        "Link": "https://ag2.ai/case-studies/parallel-agent-execution-with-ag2-best-practices-guide"
+      },
+      {
+        "Title": "Introduction to Agentic AI: A New Era in Artificial Intelligence",
+        "Subtitle": "Rutgers Informatics Forum on Agentic Artificial Intelligence",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7373819065225625600/"
+      },
+      {
+        "Title": "Crash Course on Agentic AI",
+        "Subtitle": "Private Presentation to FFVC Portfolio Companies",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7333911060791386114/"
+      },
+      {
+        "Title": "Panel Discussion: AI Innovation - Human and Socioeconomic Opportunities & Concerns",
+        "Subtitle": "NJ Big Data Alliance 12th Annual Symposium",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7330647500434849792/"
+      },
+      {
+        "Title": "Building Multi-Agent Systems for Investment Analysis",
+        "Subtitle": "AG2",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7324162946266271744/"
+      },
+      {
+        "Title": "Principles for Building Model-Agnostic AI Systems",
+        "Subtitle": "Towards AI",
+        "Link": "https://pub.towardsai.net/principles-for-building-model-agnostic-ai-systems-a3ec68158118"
+      },
+      {
+        "Title": "Fireside Chat: What is vertical AI?",
+        "Subtitle": "BetterFutureLabs AI Nights",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7306125096165801984/"
+      },
+      {
+        "Title": "Senate Testimony: Optimizing New Jersey's Role at the Intersection of Energy and AI",
+        "Subtitle": "NJ State Senate Innovation Committee on AI & Energy",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7302443184603738112/"
+      },
+      {
+        "Title": "Fireside Chat: The EnergAIzed Future",
+        "Subtitle": "BetterFutureLabs AI Nights",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7301248537336442880/"
+      },
+      {
+        "Title": "Panel Discussion: AI in Action: Lessons and Success Stories",
+        "Subtitle": "Microsoft Reactor",
+        "Link": "https://developer.microsoft.com/en-us/reactor/events/24530/"
+      },
+      {
+        "Title": "From Ideation to Realization: Navigating Entrepreneurship in Tech",
+        "Subtitle": "NJIT Guest Lecture",
+        "Link": "https://www.linkedin.com/feed/update/urn:li:activity:7262458530874507265/"
+      },
+      {
+        "Title": "Coding As Fast As You Think",
+        "Subtitle": "Bug Driven Development",
+        "Link": "https://www.bugdrivendevelopment.com/p/coding-as-fast-as-you-think"
+      },
+      {
+        "Title": "How New Jersey Could Become a Safe Haven for Open Source AI",
+        "Subtitle": "LinkedIn & BetterFutureLabs Blog",
+        "Link": "https://www.linkedin.com/pulse/how-new-jersey-could-become-safe-haven-open-source-ai-justin-trugman-b301e/?trackingId=dRD%2FxOW1f9BOKBjJ5MamPA%3D%3D"
+      },
+      {
         "Title": "I Asked 28 AI Models The Trolley Problem—And They All Pulled The Lever",
         "Subtitle": "LinkedIn & X Article",
         "Link": "https://www.linkedin.com/pulse/i-asked-28-ai-models-trolley-problemand-all-pulled-lever-trugman-hinae/?trackingId=qICDFPolRwKYnoYfQ7pZDg%3D%3D"
@@ -216,6 +281,11 @@
       }
     ],
     "MediaFeatures": [
+      {
+        "Title": "While other states fall short on AI, N.J. has opportunity to lead",
+        "Subtitle": "ROI NJ",
+        "Link": "https://www.roi-nj.com/2024/09/05/opinion/op-ed/while-other-states-fall-short-on-ai-n-j-has-opportunity-to-lead/"
+      },
       {
         "Title": "Microsoft AutoGen: A Programming Framework for Agentic AI",
         "Subtitle": "Arize AI",
